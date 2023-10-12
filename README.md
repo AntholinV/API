@@ -1,6 +1,5 @@
 # API Name
-Brief
-description of your API.
+Briefdescription of your API.
 The PHP CRUD (Create, Read, Update, Delete) API is a web service for performing basic CRUD operations on a MySQL database. It allows you to create, retrieve, update, and delete records in a "names" database table. The API is built using the Slim framework and supports various HTTP methods for data manipulation.
 
  
